@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/MyFolder/CLionProjects/SquareSolver'
+gcc main.cpp squaresolver.cpp -Wall -Wextra -o square 
+make: Leaving directory `/Users/MyFolder/CLionProjects/SquareSolver'
+ 
