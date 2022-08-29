@@ -7,7 +7,7 @@ This project is made for solving square equations.
 _How to install and run:_
 
   - download files  
-  - write make to the command line of the terminal 
+  - write 'make' to the command line of the terminal 
   - write ./square and a flag:
   
                               1. -h (or — help) to learn more about flags
