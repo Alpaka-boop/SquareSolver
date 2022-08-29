@@ -1,5 +1,5 @@
-#ifndef SQUARESOLVER_INCLUDED_H
-#define SQUARESOLVER_INCLUDED_H
+#ifndef SQUARESOLVER_H
+#define SQUARESOLVER_H
 
 #include <stdio.h>
 

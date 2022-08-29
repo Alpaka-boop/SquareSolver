@@ -1,3 +1,6 @@
+#ifndef COLOR_H
+#define COLOR_H
+
 #define BLACK "\033[1;30m"
 #define RED "\033[1;31m"
 #define GREEN "\033[1;32m"
@@ -9,3 +12,5 @@
 #define RESET "\033[0m"
 
 //background [40; 47]
+
+#endif

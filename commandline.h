@@ -1,6 +1,8 @@
+#ifndef COMMANDLINE_H
+#define COMMANDLINE_H
+
 enum FLAGS_NAMES
 {
-    NO_FLAG,
     HELP,
     SOLVE,
     UNIT,
@@ -53,3 +55,5 @@ void parse_cmdline( int argc, const char *argv[] );
 ///@note This function prints meow
 ///------------------------------------------
 void meow( const char * /* data */ );
+
+#endif
